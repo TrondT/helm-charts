@@ -3,12 +3,12 @@ entries:
   app-base:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-16T11:25:39.815868+02:00"
+    created: "2023-05-16T13:43:57.06778+02:00"
     description: A Helm chart for Kubernetes
-    digest: 1c16d2d4d47901a6a5e249a11e493fb2fbee8712931ab5b522e1046495f011a2
+    digest: 1ac021c4008d652b25066c411dafdb502a7509372c51fe3c57e0e2f08cb2e001
     name: app-base
     type: application
     urls:
-    - https://ghe.telenordigital.com/PlatformEngineering/helm-charts/charts/app-base-0.1.0.tgz
+    - https://trondtelenor.github.io/helm-charts/charts/app-base-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-16T11:25:39.815187+02:00"
+generated: "2023-05-16T13:43:57.0669+02:00"
